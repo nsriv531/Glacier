@@ -77,8 +77,6 @@ Use Maven in `java-service/` after building the engine and ensuring `app.engine.
 
 ## Why this project is compelling
 
-Glacier is useful as a portfolio project because it shows:
-
 - cross-language system design
 - orchestration vs execution boundaries
 - async job lifecycle management
