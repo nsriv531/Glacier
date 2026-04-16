@@ -1,6 +1,6 @@
-# Glacier
+# Bridge
 
-Glacier is a hybrid data platform prototype that models how modern infrastructure separates a **control plane** from a **compute plane**.
+Bridge is a hybrid data platform prototype that models how modern infrastructure separates a **control plane** from a **compute plane**.
 
 - The **Java Spring Boot service** accepts workload requests, validates them, tracks jobs, and orchestrates execution.
 - The **C++ engine** performs the computational analysis and returns structured JSON with risk, runtime, and scaling recommendations.
