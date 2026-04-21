@@ -74,11 +74,3 @@ cmake --build build
 ### Java service
 
 Use Maven in `java-service/` after building the engine and ensuring `app.engine.path` points to the compiled binary.
-
-## Suggested next steps
-
-- replace process execution with gRPC
-- add persistent job storage
-- add Docker / docker-compose
-- add tracing and metrics
-- add auth and multi-tenant workload isolation
